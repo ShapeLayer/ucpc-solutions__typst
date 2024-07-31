@@ -12,4 +12,4 @@ repository = "https://github.com/ShapeLayer/ucpc-solutions__typst"
 keywords = ["slides", "presentation", "beamer"]
 categories = ["presentation"]
 compiler = "0.1.0"
-exclude = ["examples"]
+exclude = [".github", "examples", "tests", "justfile"]
