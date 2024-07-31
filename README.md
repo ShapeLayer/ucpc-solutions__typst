@@ -16,6 +16,20 @@
 
 See [`/examples`](/examples/).
 
+## For Contributing
+
+Requirements: [just](https://github.com/casey/just), [typst-test](https://github.com/tingerrr/typst-test)
+
+**Recompile Refs for Testing**
+```sh
+just update-test
+```
+
+**Run Test**
+```sh
+just test
+```
+
 ---
 
 * Special Thanks: [@kiwiyou](https://github.com/kiwiyou) - about technical issue 
