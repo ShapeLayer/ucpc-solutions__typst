@@ -1,16 +1,6 @@
 #import "/lib/lib.typ" as ucpc
 #import ucpc.presets: difficulties as lv
 
-#show: ucpc.ucpc.with(
-  title: "Contest Name",
-  authors: ("Solutions Commentary Editorial", ),
-  hero: ucpc.utils.make-hero(
-    title: [Contest Name],
-    subtitle: [Solutions Commentary Editorial],
-    authors: ("Contest Taskforce", ),
-  ),
-)
-
 #ucpc.utils.problem(
   id: "A",
   title: "Problem A",

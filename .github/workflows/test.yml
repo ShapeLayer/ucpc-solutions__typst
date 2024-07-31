@@ -1,0 +1,31 @@
+name: test
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - '**'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install just from crates.io
+        uses: baptiste0928/cargo-install@v3
+        with:
+          crate: just
+      - name: Install typst-test from crates.io
+        uses: baptiste0928/cargo-install@v3
+        with:
+          crate: typst-test
+          git: https://github.com/tingerrr/typst-test.git
+          tag: ci-semi-stable
+      - uses: typst-community/setup-typst@v3
+      - run: |
+          just test
+      - uses: actions/upload-artifact@v3
+        with:
+          name: tests
+          path: tests
