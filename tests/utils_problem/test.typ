@@ -7,8 +7,8 @@
   tags: ("implementation", "graph_theory", ),
   difficulty: lv.easy,
   authors: ([Author a], ),
-  stat_open: (
-    submit_count: 10
+  stat-open: (
+    submit-count: 10
   ),
   i18n: ucpc.i18n.en-us.make-prob-meta,
   [

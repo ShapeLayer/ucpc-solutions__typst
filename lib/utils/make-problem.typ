@@ -2,7 +2,7 @@
 #import "/lib/colors.typ": color
 #import "/lib/utils/make-prob-meta.typ": make-prob-meta
 
-#let problem(
+#let make-problem(
   id: none,
   title: none,
   tags: (),
@@ -13,7 +13,7 @@
     ac-count: -1,
     ac-ratio: -1,
     first-solver: none,
-    first-solve_time: -1,
+    first-solve-time: -1,
   ),
   stat-onsite: none,
   pallete: (

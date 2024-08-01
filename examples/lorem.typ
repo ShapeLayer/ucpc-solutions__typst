@@ -28,10 +28,9 @@
   tags: ("implementation", "graph_theory", ),
   difficulty: lv.easy,
   authors: ([Author a], ),
-  stat_open: (
-    submit_count: 10
+  stat-open: (
+    submit-count: 10
   ),
-  i18n: ucpc.i18n.en-us.make-prob-meta,
   [
     - Magna eu tempor sunt sint laboris nulla culpa labore et quis tempor ad labore ex eiusmod aliquip culpa et incididunt consectetur nostrud velit velit eu magna excepteur ut occaecat cillum aute mollit duis tempor ea officia ex reprehenderit anim eiusmod fugiat adipisicing anim ex do exercitation est anim aliqua irure ullamco tempor irure laboris elit deserunt esse laboris magna ullamco do culpa et ut cillum magna irure Lorem aute sit anim reprehenderit nostrud incididunt officia laborum sint sint adipisicing sint mollit labore excepteur est mollit culpa aliqua duis fugiat nostrud duis sint commodo aliqua proident est incididunt fugiat et irure.
   ]
@@ -43,11 +42,11 @@
   tags: ("constructive", ),
   difficulty: lv.normal,
   authors: ([Author b], ),
-  stat_open: (
-    submit_count: 128,
-    ac_count: 51,
-    ac_ratio: 39.844,
-    first_solver: "participant #3",
+  stat-open: (
+    submit-count: 128,
+    ac-count: 51,
+    ac-ratio: 39.844,
+    first-solver: "participant #3",
   ),
   i18n: ucpc.i18n.en-us.make-prob-meta,
   [
@@ -73,19 +72,19 @@
   tags: ("dp", "greedy", ),
   difficulty: lv.challenging,
   authors: ([Author b], ),
-  stat_open: (
-    submit_count: 165,
-    ac_count: 41,
-    ac_ratio: 24.848,
-    first_solver: "participant #1" + super("@LOREM"),
-    first_solve_time: 7,
+  stat-open: (
+    submit-count: 165,
+    ac-count: 41,
+    ac-ratio: 24.848,
+    first-solver: "participant #1" + super("@LOREM"),
+    first-solve-time: 7,
   ),
-  stat_onsite: (
-    submit_count: 111,
-    ac_count: 77,
-    ac_ratio: 70.270,
-    first_solver: "participant a",
-    first_solve_time: 2,
+  stat-onsite: (
+    submit-count: 111,
+    ac-count: 77,
+    ac-ratio: 70.270,
+    first-solver: "participant a",
+    first-solve-time: 2,
   ),
   i18n: ucpc.i18n.en-us.make-prob-meta,
   [
