@@ -81,6 +81,7 @@
   color.ruby.I,
   
   color.misc.unrated,
+  color.misc.ghudegy,
 ) {
   rect(
     width: 50pt,

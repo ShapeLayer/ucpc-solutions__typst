@@ -94,5 +94,6 @@
   ),
   misc: (
     unrated: rgb("#2d2d2d"),
+    ghudegy: rgb("#8769af"),
   ),
 )
