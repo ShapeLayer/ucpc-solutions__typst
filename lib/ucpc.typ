@@ -17,7 +17,7 @@
   ),
   pallete: (
     primary: color.bluegray.at(2),
-    secondary-color: white,
+    secondary: white,
   )
 ) = {
   // Setup (Before Hero)

@@ -18,7 +18,7 @@
   stat-onsite: none,
   pallete: (
     primary: color.bluegray.at(2),
-    secondary-color: white,
+    secondary: white,
   ),
   i18n: en-us.make-prob-meta,
   body
