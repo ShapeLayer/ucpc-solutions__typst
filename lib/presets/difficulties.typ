@@ -8,7 +8,7 @@
   bronze: [#text(fill: color.bronze.III, weight: "bold")[Bronze]],
   silver: [#text(fill: color.silver.III, weight: "bold")[Silver]],
   gold: [#text(fill: color.gold.III, weight: "bold")[Gold]],
-  platinum: [#text(fill: color.platinum.III, weight: "bold")[Platinum]],
+  platinum: [#text(fill: color.platinum.V, weight: "bold")[Platinum]],
   diamond: [#text(fill: color.diamond.III, weight: "bold")[Diamond]],
   ruby: [#text(fill: color.ruby.III, weight: "bold")[Ruby]],
 )
