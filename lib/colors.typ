@@ -93,7 +93,7 @@
     I: __ucpc_color_named.cherry.at(4),
   ),
   misc: (
-    unrated: rgb("#2d2d2d"),
     ghudegy: rgb("#8769af"),
+    unrated: rgb("#2d2d2d"),
   ),
 )
