@@ -22,3 +22,9 @@
   difficulty: "Difficulty",
   author: "Author",
 )
+
+#let make-problem = (
+  make-prob-meta: make-prob-meta
+)
+
+#let problem = make-problem

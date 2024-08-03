@@ -20,7 +20,7 @@
     primary: color.bluegray.at(2),
     secondary: white,
   ),
-  i18n: en-us.make-prob-meta,
+  i18n: en-us.make-problem,
   body
 ) = {
   set page(margin: (top: 3em))
@@ -33,7 +33,7 @@
     authors: authors,
     stat-open: stat-open,
     stat-onsite: stat-onsite,
-    i18n: i18n
+    i18n: i18n.make-prob-meta
   )
   set page(
     header: text(

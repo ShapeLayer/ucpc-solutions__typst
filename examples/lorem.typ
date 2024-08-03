@@ -48,7 +48,7 @@
     ac-ratio: 39.844,
     first-solver: "participant #3",
   ),
-  i18n: ucpc.i18n.en-us.make-prob-meta,
+  i18n: ucpc.i18n.en-us.problem,
   [
     - Elit ullamco laborum sint aute deserunt laborum eiusmod dolor sint ut reprehenderit consectetur sunt et sunt in tempor esse amet excepteur deserunt ex mollit ipsum eiusmod enim mollit irure laboris proident enim non sit culpa in magna aliqua labore in ut laborum proident aliqua labore dolor velit proident dolor cupidatat pariatur amet magna magna ipsum incididunt qui dolore cupidatat incididunt in officia excepteur cupidatat irure ex mollit et proident sint amet duis minim officia anim aliqua commodo velit id ad proident consequat fugiat commodo cillum et adipisicing commodo anim est cupidatat irure ea amet dolore qui magna do incididunt ipsum.
   ]
@@ -60,7 +60,7 @@
   tags: ("ad_hoc", ),
   difficulty: lv.hard,
   authors: ([Author c], ),
-  i18n: ucpc.i18n.en-us.make-prob-meta,
+  i18n: ucpc.i18n.en-us.problem,
   [
     - Magna aliqua reprehenderit amet ea Lorem cupidatat cillum esse sunt nisi magna tempor in qui proident enim aute veniam laboris amet cillum laboris magna ad laboris elit exercitation aute laborum magna Lorem cillum laborum officia veniam fugiat esse quis amet et consequat adipisicing duis ullamco occaecat quis quis ullamco Lorem sint deserunt anim tempor cillum tempor et ea fugiat pariatur qui fugiat magna sunt laboris sint sint minim incididunt ullamco quis laboris consectetur id sit aliqua sint eiusmod eiusmod esse magna duis ea irure ea laborum ex deserunt exercitation ullamco laboris est et velit sunt labore et proident officia nulla.
   ]
@@ -86,9 +86,8 @@
     first-solver: "participant a",
     first-solve-time: 2,
   ),
-  i18n: ucpc.i18n.en-us.make-prob-meta,
+  i18n: ucpc.i18n.en-us.problem,
   [
     - Ullamco non cupidatat deserunt anim dolor enim officia culpa excepteur irure aliquip sint non ipsum ea non consequat occaecat incididunt esse in ex enim duis velit consectetur dolor veniam deserunt cupidatat minim do non dolore irure et est in adipisicing commodo dolore ex culpa aute enim cupidatat irure magna minim adipisicing excepteur nostrud do nisi ea incididunt ex commodo anim sint dolore fugiat deserunt eiusmod sit adipisicing veniam eiusmod est reprehenderit non incididunt dolore nisi ad ipsum Lorem et Lorem amet nostrud incididunt irure ex commodo aliqua est fugiat in laboris aute veniam eiusmod eu in irure laboris exercitation nulla.
   ]
 )
-

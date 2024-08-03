@@ -16,9 +16,14 @@
   first_solved_at_prefix: "+",
   first_solved_at_postfix: "분",
 )
-
 #let make-prob-overview = (
   problem: "문제",
   difficulty: "의도한 난이도",
   author: "출제자",
 )
+
+#let make-problem = (
+  make-prob-meta: make-prob-meta
+)
+
+#let problem = make-problem
