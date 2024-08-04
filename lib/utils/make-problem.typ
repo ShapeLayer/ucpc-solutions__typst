@@ -45,6 +45,6 @@
     ]
   )
   set align(horizon)
-  set list(marker: [»])
+  set list(marker: [#text(font: "inter", fill: pallete.primary)[✓]])
   body
 }

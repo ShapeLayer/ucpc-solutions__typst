@@ -12,6 +12,13 @@
 )
 ```
 
+### Requirements
+
+**Fonts**
+- [Inter](https://fonts.google.com/specimen/Inter)
+- (optional) [Gothic A1](https://fonts.google.com/specimen/Gothic+A1)
+- (optional) [Pretendard](https://github.com/orioncactus/pretendard/blob/main/packages/pretendard/docs/en/README.md)
+
 ## Examples
 
 See [`/examples`](/examples/).
