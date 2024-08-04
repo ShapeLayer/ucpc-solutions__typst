@@ -34,7 +34,3 @@ jobs:
       - uses: typst-community/setup-typst@v3
       - run: |
           just test
-      - uses: actions/upload-artifact@v3
-        with:
-          name: tests
-          path: tests
