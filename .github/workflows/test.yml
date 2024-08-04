@@ -16,6 +16,15 @@ jobs:
         uses: baptiste0928/cargo-install@v3
         with:
           crate: just
+      - name: Install required fonts
+        run: |
+          sudo apt-get install fontconfig
+          wget -O inter.zip https://github.com/rsms/inter/releases/download/v4.0/Inter-4.0.zip
+          mkdir ./inter
+          unzip -d ./inter inter.zip
+          mkdir -p /usr/share/fonts/inter
+          mv ./inter/extras/ttf/* /usr/share/fonts/inter
+          fc-cache -f -v
       - name: Install typst-test from crates.io
         uses: baptiste0928/cargo-install@v3
         with:
