@@ -24,9 +24,9 @@ This contains content-generating utils for making solutions editorial and ["solv
 
 ## Examples
 
-See [`/examples`](/examples/).
+See [`/examples`](./examples/).
 
-You can also see other examples using the original LaTeX theme. See the [(KR) "Theme Usage Examples(테마 사용 예)" section](https://github.com/ucpcc/2020-solutions-theme#%ED%85%8C%EB%A7%88-%EC%82%AC%EC%9A%A9-%EC%98%88) in the origin repository's README.
+You can also see other usecase using the original LaTeX theme. See the [(KR) "Theme Usage Examples(테마 사용 예)" section](https://github.com/ucpcc/2020-solutions-theme#%ED%85%8C%EB%A7%88-%EC%82%AC%EC%9A%A9-%EC%98%88) in the origin repository's README.
 
 ## For Contributing
 
