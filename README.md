@@ -1,6 +1,9 @@
 # ucpc-solutions
 
-[ucpc-solutions](https://github.com/ShapeLayer/ucpc-solutions__typst) is the port of the LaTeX theme [ucpcc/2020-solutions-theme](https://github.com/ucpcc/2020-solutions-theme) and is used widely for writing and publishing problem solutions for algorithm contests at [Baekjoon Online Judge](https://acmicpc.net).
+[ucpc-solutions](https://github.com/ShapeLayer/ucpc-solutions__typst) is the template for solutions editorial of algorithm contests, used widely in the ["Baekjoon Online Judge"](https://acmicpc.net) users community in Korea.
+
+The original version of ucpc-solution is written in LaTeX([ucpcc/2020-solutions-theme](https://github.com/ucpcc/2020-solutions-theme)), and this is the port of LaTeX ver.
+This contains content-generating utils for making solutions editorial and ["solved.ac"](https://solved.ac) difficulty expression presets, a rating system for Baekjoon Online Judge's problems.
 
 ## Getting Started
 
