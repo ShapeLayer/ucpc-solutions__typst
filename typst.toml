@@ -13,3 +13,8 @@ keywords = ["slides", "presentation", "beamer"]
 categories = ["presentation"]
 compiler = "0.1.0"
 exclude = [".github", "examples", "tests", "justfile"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"
