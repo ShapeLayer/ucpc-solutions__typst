@@ -8,7 +8,7 @@ This contains content-generating utils for making solutions editorial and ["solv
 ## Getting Started
 
 ```typst
-#import "/lib/lib.typ" as ucpc
+#import "@preview/ucpc-solutions:0.1.0" as ucpc
 #show: ucpc.ucpc.with(
   title: "Code Race \nArena #3",
   authors: ("Code Race Arena #3 TF", ),
