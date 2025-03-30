@@ -1,6 +1,6 @@
 update-test:
   rm -rf tests/**/ref
-  typst-test update --all
+  tt update
 
 test:
-  typst-test run
+  tt run

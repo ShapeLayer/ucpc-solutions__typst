@@ -30,7 +30,7 @@ You can also see other usecase using the original LaTeX theme. See the [(KR) "Th
 
 ## For Contributing
 
-Requirements: [just](https://github.com/casey/just), [typst-test](https://github.com/tingerrr/typst-test)
+Requirements: [just](https://github.com/casey/just), [tytanic](https://github.com/tingerrr/tytanic)
 
 **Recompile Refs for Testing**
 ```sh

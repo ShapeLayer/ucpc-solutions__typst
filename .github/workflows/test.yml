@@ -28,8 +28,8 @@ jobs:
       - name: Install typst-test from crates.io
         uses: baptiste0928/cargo-install@v3
         with:
-          crate: typst-test
-          git: https://github.com/tingerrr/typst-test.git
+          crate: tytanic@0.2.2
+          git: https://github.com/tingerrr/tytanic.git
           tag: ci-semi-stable
       - uses: typst-community/setup-typst@v3
       - run: |
