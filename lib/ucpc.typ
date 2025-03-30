@@ -55,7 +55,7 @@
       #columns(2)[
         #align(left)[#title]
         #colbreak()
-        #align(right)[#counter(page).display("1")]
+        #align(right)[#context { counter(page).display("1") }]
       ]
     ]
   )
